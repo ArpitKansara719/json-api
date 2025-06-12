@@ -1,0 +1,28 @@
+{
+<<<<<<< HEAD
+  "name": "json-server-api",
+=======
+  "name": "json-api",
+>>>>>>> c93ac91 (Hello)
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
+    "start" : "npx json-server --watch db.json --port 10000"
+=======
+    "server" : "json-server --watch db.json --port 10000"
+>>>>>>> c93ac91 (Hello)
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+<<<<<<< HEAD
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+=======
+  "description": ""
+>>>>>>> c93ac91 (Hello)
+}
